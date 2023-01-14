@@ -8,6 +8,20 @@ var respecConfig =
   content: {
     "section_000": ""
   },
+  authors: [
+    {
+      name: "Gerard Wolbers",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    }
+  ],
+  editors: [
+    {
+      name: "Gerard Wolbers",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    }
+  ],
   shortName: "respec",
   format: "markdown",
   github: "https://github.com/Geonovum/geen-respec/",
