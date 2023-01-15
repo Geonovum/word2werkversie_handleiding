@@ -6,8 +6,6 @@ var respecConfig =
   specType: "AL",
   license: "cc-by-nd",
   publishDate: "2023-01-14",
-  previousPublishDate: "2023-01-10",
-  previousMaturity: "geen",
   content: {
     "section_000": "",
     "section_001": "",
@@ -29,10 +27,23 @@ var respecConfig =
       companyURL: "https://www.geonovum.nl/"
     }
   ],
+  localBiblio: {
+    "3DTILES": {
+      title: "3D Tiles Specification 1.0",
+      href: "http://docs.opengeospatial.org/cs/18-053r2/18-053r2.html",
+      authors: "",
+      publisher: "Open Geospatial Consortium (OGC)",
+      editors: [
+        "Patrick Cozzi",
+        "Sean Lilley",
+        "Gabby Getz"
+      ],
+      date: "2019-01-31",
+      status: "Approved for public release"
+    }
+  },
   shortName: "respec",
   format: "markdown",
-  github: "https://github.com/Geonovum/geen-respec/",
-  issueBase: "https://github.com/Geonovum/geen-respec/issues/",
   edDraftURI: "https://Geonovum.github.io/geen-respec/",
   publishISODate: "2023-01-14T00:00:00.000Z",
   generatedSubtitle: "Document 14 januari 2023"
