@@ -92,10 +92,6 @@ var organisationConfig =
       ico: "https://tools.geostandaarden.nl/publication/domain/geen/Geonovum.ico"
     }
   ],
-  latestVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName"],
-  thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "publishVersion"],
-  prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "shortName", "/", "previousPublishVersion"],
-
   useLogo: true,
   useLabel: true,
   addSectionLinks: false,
