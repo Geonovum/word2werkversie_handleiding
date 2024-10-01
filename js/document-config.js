@@ -2,26 +2,28 @@ var documentConfig =
 {
   title: "Gebruikershandleiding word2respec",
   shortName: "respec",
-  pubDomain: "wp",
+  pubDomain: "geen",
   specStatus: "basis",
   specType: "bd",
   license: "cc-by-nd",
   latestVersion: [
-    "docs.geostandaarden.nl/wp/respec/"
+    "https://docs.geostandaarden.nl/geen/respec/"
   ],
   publishDate: "2023-08-02",
   publishVersion: "1.1.0",
   thisVersion: [
-    "docs.geostandaarden.nl/wp/basis-bd-respec-20230802/"
+    "https://docs.geostandaarden.nl/geen/basis-bd-respec-20230802/"
   ],
   previousPublishDate: "2023-01-14",
   previousPublishVersion: "1.0.0",
   prevVersion: [
-    "docs.geostandaarden.nl/wp/geen-bd-respec-20230114/"
+    "https://docs.geostandaarden.nl/geen/geen-bd-respec-20230114/"
   ],
   previousMaturity: "geen",
-  github: "https://github.com/geen/wp-respec/",
-  issueBase: "https://github.com/geen/wp-respec/issues/",
+  github: "https://github.com/geonovum/geen-respec/",
+  issueBase: "https://github.com/geonovum/geen-respec/issues/",
+  edDraftURI: "https://geonovum.github.io/geen-respec/",
+  canonicalURI: "https://docs.geostandaarden.nl/geen/respec/",
   editors: [
     {
       name: "Gerard Wolbers",
